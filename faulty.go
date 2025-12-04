@@ -15,6 +15,7 @@ import (
 
 var hardcodedAPIKey = "AIzaSyA123456789ABCDEFG" // ❌ #1 Hardcoded secret
 
+
 // ===============================================================
 // #1 Hardcoded Credential     (high)
 // ===============================================================
